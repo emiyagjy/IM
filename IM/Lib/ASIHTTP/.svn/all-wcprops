@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIFormDataRequest.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/eMenu/!svn/ver/214/myProduct/myProduct/Common/Data/External/ASIHTTP/ASIDataCompressor.m
+END
